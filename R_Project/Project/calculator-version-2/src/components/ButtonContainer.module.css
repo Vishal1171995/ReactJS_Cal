@@ -1,0 +1,11 @@
+.btn{
+  width:80px;
+  margin: 5px;
+  border: 1px solid black;
+ flex-wrap: wrap;
+  
+}
+
+.btnContainer{
+  margin: 14px;
+}
